@@ -14,7 +14,7 @@ def divisao(x, y):
     else:
         return x / y
 
-print("Selecione a operação:")
+print("Selecione a operação desejada:")
 print("1. Adição")
 print("2. Subtração")
 print("3. Multiplicação")
